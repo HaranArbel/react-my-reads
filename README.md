@@ -14,13 +14,15 @@ The main page of the application displays a list of "shelves" (i.e. categories),
 - Want to Read
 - Read
 
-
 Each book has a control that lets you select the shelf for that book. When you select a different shelf, the book moves to that shelf.
+
+![demo](public/MyReads.gif)
 
 From the main page, you can click on the + button to go to the search page, where you can find books to add to your library.
 
 When a book is on a bookshelf, it should have the same state on both the main application page and the search page.
 
+![demo](public/SearchPage.gif)
 
 You can use the arrow at the top of the search page to go back to the main page. 
 
